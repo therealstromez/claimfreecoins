@@ -1,0 +1,10 @@
+{
+    "wallet": {
+        "btc" : "12pKA93LPKxYuBSo8wnFxsD7yXdwpXKxvC",
+        "doge" : "DMkmASPdpXBXD5mpBhz9253ZoFEHRKjBG9",
+        "ltc": "ltc1quyu4jywnk0352evjagcuz06naplzlrlf8z58dp",
+        "trx": "TRHn17hyocL5qgbhTmGLFUq3FPvKWnNgtY",
+        "bnb" : "0x7cC0FC6Bf5C149E28355CC4C348e3647aE0d433F",
+        "usdt" : "TRHn17hyocL5qgbhTmGLFUq3FPvKWnNgtY"
+    }
+}  
